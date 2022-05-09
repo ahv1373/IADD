@@ -33,10 +33,12 @@ annotators and the potential mis-alignments are modified.
 
 ## 3. Download
 Download Links for the database are presented here:
-- [Training data](https://github.com)
-- [Validation data](https://github.com)
-- [Test data](https://github.com)
-- [No annot data](https://github.com)
+- Training data: [part1](https://drive.google.com/file/d/1wx6c8nhQ9m5wki2uhCoLqANrM8_J5tkw/view?usp=sharing), [part2](https://drive.google.com/file/d/1BgSvWdKMvdJSwHH36SyO_h_bCQ2YegCJ/view?usp=sharing)
+- [Validation data](https://drive.google.com/file/d/145oqhEp8X9V4i1Bi7xv-GzCfQJGQTa7Z/view?usp=sharing)
+- [Test data](https://drive.google.com/file/d/1LMCh1Zzw6MaGiV3iqilry01uZZ6s7ncp/view?usp=sharing)
+- [No annot data](https://drive.google.com/file/d/1H4XisCX5Z56GRZ-cbUSiaGh-7B6f0v4W/view?usp=sharing)
+- [RealSense synchronized data (vision + imu)] (https://drive.google.com/file/d/1BGI6zE_KAqsoi10v78lsLFaxokKbnSWp/view?usp=sharing)
+- [Additional vision + imu data (not realsense)] (https://drive.google.com/file/d/11N1OYDeE3pI6CFumMPOBYCIFPEPuvSI1/view?usp=sharing)
 
 ## 4. Predictions
 Couple of prediction samples based on the trained YOLOV4 architecture are visualized below.
