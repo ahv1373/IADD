@@ -22,6 +22,8 @@ Few samples of our database are presented below:
 <p align="center"><img src="image_samples/raw_data/Record433_R_292.jpg" width="1280" title="Image sample 1" alt=""></p>
 <p align="center"><img src="image_samples/raw_data/Record435_R_328.jpg" width="1280" title="Image sample 1" alt=""></p>
 <p align="center"><img src="image_samples/raw_data/Record437_D_412.jpg" width="1280" title="Image sample 1" alt=""></p>
+<p align="center"><img src="image_samples/raw_data/Record002_N_233.jpg" width="1920" title="Image sample 1" alt=""></p>
+<p align="center"><img src="image_samples/raw_data/Record022_N_Record022_N_044863.jpg" width="1920" title="Image sample 1" alt=""></p>
 
 ## 2. Annotation
 IADD supports six different classes which are listed below.
