@@ -48,6 +48,12 @@ Download Links for the database are presented here:
 - [RealSense synchronized data (vision + imu)](https://drive.google.com/file/d/1BGI6zE_KAqsoi10v78lsLFaxokKbnSWp/view?usp=sharing)
 - [Additional vision + imu data (not realsense)](https://drive.google.com/file/d/11N1OYDeE3pI6CFumMPOBYCIFPEPuvSI1/view?usp=sharing)
 
+Gdown is recommended to easily download all files of our dataset. To install and use gdown:
+```bash
+$ pip install gdown
+$ gdown --id <PATH-TO-FILE-ID>
+```
+
 ## 4. Predictions
 Couple of prediction samples based on the trained YOLOV4 architecture are visualized below.
 <p align="center"><img src="image_samples/outputs/Record000_DA_001640.jpg" width="1920" title="Image sample 1" alt=""></p>
