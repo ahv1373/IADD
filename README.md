@@ -1,4 +1,4 @@
-# IADD_Database
+# IADD
 
 This repository contains the documentations and download links for 
 the 2022 Iran Autonomous Driving Database (IADD). IADD aims at improving the
@@ -72,9 +72,9 @@ Couple of prediction samples based on the trained YOLOV4 architecture are visual
 <p align="center"><img src="image_samples/outputs/Record437_D_412.jpg" width="1280" title="Image sample 1" alt=""></p>
 
 ## 5. Citations
-If you find this repository helpful and decided to utilize IADD database in your research project, consider citing us as below:
+If you find this repository helpful and decided to utilize IADD in your research project, consider citing us as below:
 ```bibtex
-@INPROCEEDINGS{iadd_database,
+@INPROCEEDINGS{iadd,
   author={},
   booktitle={}, 
   title={}, 
