@@ -74,13 +74,18 @@ Couple of prediction samples based on the trained YOLOV4 architecture are visual
 ## 5. Citations
 If you find this repository helpful and decided to utilize IADD in your research project, consider citing us as below:
 ```bibtex
-@INPROCEEDINGS{iadd,
-  author={},
-  booktitle={}, 
-  title={}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={},
-  doi={}}
+@article{https://doi.org/10.1049/ipr2.12710,
+author = {Khosravian, Amir and Amirkhani, Abdollah and Masih-Tehrani, Masoud and Yazdanijoo, Alireza},
+title = {Multi-domain autonomous driving dataset: Towards enhancing the generalization of the convolutional neural networks in new environments},
+journal = {IET Image Processing},
+volume = {17},
+number = {4},
+pages = {1253-1266},
+keywords = {convolutional neural nets, database indexing, image annotation, vehicles},
+doi = {https://doi.org/10.1049/ipr2.12710},
+url = {https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.12710},
+eprint = {https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ipr2.12710},
+abstract = {Abstract In this paper, a large-scale dataset called the Iran Autonomous Driving Dataset (IADD) is presented, aiming to improve the generalization capability of the deep networks outside of their training domains. The IADD focuses on 2D object detection and contains more than 97,000 annotated images, covering six common object classes in the field of autonomous vehicles. To improve the generalization of the models, a wide variety of driving conditions and domains, including the city and suburban road settings, adverse weather conditions, and various traffic flows, are presented in the IADD images. The results of exhaustive evaluations conducted on several state-of-the-art convolutional neural networks reveal that not only the trained architectures have performed successfully on test data of the IADD, but also they have upheld high precision in the assessments of generalization capability. In order to challenge the models, broad range of simulations have been performed in the CARLA software environment; which due to the synthetic nature of the simulated images, severe domain shifts have been observed between the CARLA and the IADD. Also, the cross-domain evaluation results have confirmed the efficacy of the IADD in enhancing the generalization ability of the deep learning models. The dataset is available in: https://github.com/ahv1373/IADD .},
+year = {2023}
+}
 ```
